@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My happy places</string>
+    <string name="miles_per_hour">Miles/hour</string>
+    <string name="no_happy_places_found_yet_please_add_one">No happy places found yet. Please add one.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="select_current_location">Select current location</string>
+    <string name="add_image">Add image</string>
+    <string name="save">Save</string>
+    <string name="yes">yes</string>
+    <string name="update">Update</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+
+</resources>
